@@ -1,0 +1,140 @@
+= Debconf17参加者に\n伝えたいこと
+
+: subtitle
+  Things I want to tell Debconf17 attendee
+: author
+  Kentaro Hayashi
+: institution
+  ClearCode Inc.
+: content-source
+  Debian9 "Stretch" リリースパーティー in Tokyo
+: date
+  2017-06-18
+: allotted-time
+  10m
+: theme
+  .
+
+= 祝 Debian9 リリース！
+
+(('tag:center'))(('tag:xx-large'))おめでとうございます！
+(('note:Congratuations on Debian9 release!'))
+
+= そろそろDebconf17も\n(('note:Are you ready for Debconf17?'))
+
+  # image
+  # relative-height = 90
+  # src = images/debconf17.png
+
+= Debconf17参加する？
+
+* Are there any Debconf17 attendee here?
+
+= 私は参加しません
+
+* I have no chance for it (('&#9785;'))
+
+= Debconf17参加者に\n伝えたいこと
+
+* Things I want to tell Debconf17 attendee
+
+= 何を伝えたいのか？
+
+* (('tag:xx-large'))What's that?
+
+= 一年ほど前のこと...\n(('note:One year ago...'))
+
+  # image
+  # relative-height = 70
+  # src = images/shibuyadots.png
+
+* 渋谷dotsにて 2016/06/25\n(('note:At shibuya dots'))
+
+= とある発表をしました
+
+* I talked a hack about...
+
+= debexpo(mentors.d.n)
+
+  # image
+  # relative-height = 90
+  # src = images/mentors.d.n.png
+
+= どんなハック？(1)\n(('note:What did you do?'))
+
+* 新規構築で動作しない問題を解決\n(('note:Broken newly constructed environment issues'))
+* 壊れたテストの解決\n(('note:Fixed broken CI'))
+* インポートスクリプトが動作しない問題を解決\n(('note:Fixed broken importer script'))
+
+= どんなハック？(2)\n(('note:What did you do?'))
+
+* シードデータが古すぎる問題を修正\n
+  (('note:Updated too old seed data'))
+* QA uploadの情報を収集できるように\n
+  (('note:Supported QA upload information'))
+* RFSテンプレートを改善\n
+  (('note:Improved RFS template'))
+
+= ほとんどはマージされるも...(('note:Most PR are merged...'))
+
+* RFSテンプレートを改善するPRはマージされず\n
+  (('note:PR improving RFS template is not merged yet'))
+
+= 詳細は2016年冬号を\n(('note:See 2016 winter edition'))
+
+  # image
+  # relative-height = 90
+  # src = images/undocumenteddebian.png
+
+= debexpoをハックするには(('note:How to hack debexpo'))
+
+  # image
+  # relative-height = 90
+  # src = images/hackdebexpo.png
+
+= debexpoをハックするには(('note:How to hack debexpo'))
+
+* 18pくらいにまとめました
+* 日本語で読める数少ないdebexpoハックの解説\n
+  (ニッチすぎるとも言う)
+
+= PR#35をマージしたい(('note:Want to merge PR#35'))
+
+  # image
+  # relative-height = 90
+  # src = images/rfstemplate.png
+
+= Debconfでレビューすると言った(言ってない)\n(('note:I will review it...'))
+
+  # image
+  # relative-width = 100
+  # src = images/feedback.png
+
+= 時は流れた\n(('note:Time has passed...'))
+
+* 依然として動きなし\n
+  (('note:No progress since then'))
+
+= Debconf17参加者に\n伝えたいこと
+
+* Things I want to tell Debconf17 attendee
+
+= Debconf17参加者に\n伝えたいこと
+
+  # image
+  # relative-height = 90
+  # src = images/wanted.png
+
+* @paulproteus
+
+= Debconf17参加者に\n伝えたいこと
+
+* PR#35, PR#42をマージ&デプロイするように伝えて欲しい\n
+  (('note:Could you tell him to merge PR#35,PR#42 and deploy?'))
+
+= Summary
+
+* Debconf17で @paulproteus を捕まえて\n
+  (('note:Catch @paulproteus at Debconf17'))
+* debexpoのPRに対応するように伝えて\n
+  (('note:Tell him to merge about debexpo PRs'))
