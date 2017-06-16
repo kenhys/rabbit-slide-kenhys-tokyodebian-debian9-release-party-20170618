@@ -1,0 +1,22 @@
+---
+id: tokyodebian-debian9-release-party-20170618
+base_name: debian9-release-party
+tags:
+- rabbit
+- debian9
+presentation_date: 
+version: 2017.06.18.1
+licenses: 
+- CC-BY-SA-4.0
+slideshare_id:  kenhys
+speaker_deck_id: 
+ustream_id: 
+vimeo_id: 
+youtube_id: 
+author:
+  markup_language: :rd
+  name: Kentaro Hayashi
+  email: kenhys@gmail.com
+  rubygems_user: kenhys
+  slideshare_user: 
+  speaker_deck_user: 
