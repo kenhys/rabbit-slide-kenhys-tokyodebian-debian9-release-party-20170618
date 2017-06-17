@@ -32,7 +32,7 @@
 
 = 私は参加しません
 
-* I have no chance for it (('&#9785;'))
+* I'm not attendee of Debconf17 (('&#9785;'))
 
 = Debconf17参加者に\n伝えたいこと
 
@@ -122,7 +122,7 @@
   # relative-width = 100
   # src = images/feedback.png
 
-* But he didn't say until ((*Debconf16*))
+* But he didn't say until during ((*Debconf16*))
 
 = 時は流れた\n(('note:Time has passed...'))
 
@@ -148,6 +148,8 @@
 
 = まとめ\n(('note:Summary'))
 
+* RFS templateを改善するPRが放置されている
+  (('note:PR about RFS template is not merged'))
 * Debconf17で @paulproteus を捕まえて\n
   (('note:Catch @paulproteus at Debconf17'))
 * debexpoのPRに対応するように伝えて\n
