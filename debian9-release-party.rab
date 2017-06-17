@@ -108,11 +108,21 @@
   # relative-height = 90
   # src = images/rfstemplate.png
 
-= Debconfでレビューすると言った(言ってない)\n(('note:I will review it...'))
+= Debconfでレビューすると言った
 
   # image
   # relative-width = 100
   # src = images/feedback.png
+
+* He said that he will review it at that time...
+
+= だがDebconf16とは言ってない
+
+  # image
+  # relative-width = 100
+  # src = images/feedback.png
+
+* But he didn't say until ((*Debconf16*))
 
 = 時は流れた\n(('note:Time has passed...'))
 
@@ -126,19 +136,19 @@
 = Debconf17参加者に\n伝えたいこと
 
   # image
-  # relative-height = 90
+  # relative-height = 80
   # src = images/wanted.png
 
-* @paulproteus
+* @paulproteus (Asheesh Laroia)
 
 = Debconf17参加者に\n伝えたいこと
 
 * PR#35, PR#42をマージ&デプロイするように伝えて欲しい\n
   (('note:Could you tell him to merge PR#35,PR#42 and deploy?'))
 
-= Summary
+= まとめ\n(('note:Summary'))
 
 * Debconf17で @paulproteus を捕まえて\n
   (('note:Catch @paulproteus at Debconf17'))
 * debexpoのPRに対応するように伝えて\n
-  (('note:Tell him to merge about debexpo PRs'))
+  (('note:Then could you tell him to merge about debexpo PRs?'))
