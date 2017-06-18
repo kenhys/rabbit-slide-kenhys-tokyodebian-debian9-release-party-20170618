@@ -72,7 +72,7 @@
   (('note:Fixed a issue about too old seed data'))
 * QA uploadの情報を収集できるように\n
   (('note:Supported to collect QA upload information'))
-* RFSテンプレートを改善\n
+* ((*RFSテンプレートを改善*))\n
   (('note:Improved RFS template'))
 
 = ほとんどはマージされるも...(('note:Most PR are merged...'))
@@ -98,9 +98,10 @@
 
 = debexpoをハックするには(('note:How to hack debexpo'))
 
-* 18pくらいにまとめました
+* 18pくらいにまとめました\n(('note:This article summarizes debexpo internals in 18p'))
+  
 * 日本語で読める数少ないdebexpoハックの解説\n
-  (ニッチすぎるとも言う)
+  (('note:Maybe there is no other guide about debexpo hacks written in Japanese'))
 
 = PR#35をマージしたい(('note:Want to merge PR#35'))
 
